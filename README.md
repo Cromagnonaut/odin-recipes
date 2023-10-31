@@ -3,7 +3,7 @@ Training repository for The Odin Projects Foundations course
 
 # Which step was completed?
 
-Project: Recipes at 43%
+Project: Recipes at 47%
 
 # Now I am able to:
 
@@ -12,3 +12,6 @@ Project: Recipes at 43%
 * Adding basic html elements like links, lists and images to my pages
 * Work with Git as version control on a basic level
 * Publish my pages on Github-Pages
+* Add style to html pages with css
+* Use classes, id's and selectors
+* Use properties witin the css elements
