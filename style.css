@@ -1,10 +1,33 @@
 body {
   font-family: 'Courier New', Verdana;
+  font-size: medium;
+  text-align: center;
 }
 
-h1 {
+body {
+  font-family: 'Courier New', Verdana;
+  font-size: medium;
+}
+
+.heading,
+a,
+#back {
+  color: brown;
+}
+
+h1.heading {
+  color: antiquewhite;
+  background-color: brown;
   font-size: 32px;
 }
+
+ul {
+  list-style-position: inside;
+}
+
+ol.steps {
+  text-align: left;
+}  
 
 #ice {
   color: blueviolet;
@@ -18,7 +41,8 @@ h1 {
   color: brown;
 }
 
-a {
-  color: brown;
-  font-size: medium;
+
+ul.references * {
+  color: hsla(0, 0%, 0%, 0.750);
+  font-size: small;
 }
