@@ -1,0 +1,24 @@
+body {
+  font-family: 'Courier New', Verdana;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+#ice {
+  color: blueviolet;
+}
+
+#noodle {
+  color: darkgoldenrod;
+}
+
+#bread {
+  color: brown;
+}
+
+a {
+  color: brown;
+  font-size: medium;
+}
